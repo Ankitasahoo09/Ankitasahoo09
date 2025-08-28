@@ -50,7 +50,7 @@
 
 ### 📬 Connect With Me
 <p align="center">
-  <a href="[https://linkedin.com/in/ankitasahoo](https://www.linkedin.com/in/ankita-sahoo-243a68230?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BXRP9c4y7QImkD7ETApsePA%3D%3D)" target="_blank">
+  <a href="https://www.linkedin.com/in/ankita-sahoo-243a68230?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1RJEEAZ0RJCzRm%2BZkHIL2w%3D%3D" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ankitasahoo.dev@gmail.com">
